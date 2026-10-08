@@ -213,6 +213,7 @@ To regenerate it, for example after a change in the JS package:
 cd scripts/golden
 npm ci
 npm run generate  # runs in TZ=UTC
+./check.sh        # or only check that the committed data is up to date (what CI runs)
 ```
 
 Some fixtures in `tests/data` are converted from the JS package's tests. The JS fixture for the "last day nearest

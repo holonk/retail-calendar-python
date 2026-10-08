@@ -39,10 +39,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - working-directory: scripts/golden
-        run: npm ci && npm run generate
       - name: Check generated data is up to date
-        run: git diff --exit-code -- tests/data/golden
+        working-directory: scripts/golden
+        run: npm ci && ./check.sh
 
   build:
     runs-on: ubuntu-latest
