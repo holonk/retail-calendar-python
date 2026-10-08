@@ -6,6 +6,10 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.14"
 authors = [{ name = "Toolio" }]
+maintainers = [
+    { name = "Alican Buyukcakir", email = "alican@toolio.com" },
+    { name = "Cihan Cimen", email = "cihan@toolio.com" },
+]
 keywords = ["retail", "calendar", "merchandise", "4-5-4", "nrf", "fiscal"]
 classifiers = [
     "Programming Language :: Python :: 3",

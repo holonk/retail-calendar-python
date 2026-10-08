@@ -188,6 +188,13 @@ Differences in behavior:
   options, unsupported years) raise `ValueError` when created instead of failing later or producing wrong calendars.
 - **Immutability.** Calendars, weeks, months, days and options are frozen, so the cache can be shared safely.
 
+## Maintainers
+
+- Alican Buyukcakir ([@abuyukcakir](https://github.com/abuyukcakir), alican@toolio.com)
+- Cihan Cimen ([@cihancimen](https://github.com/cihancimen), cihan@toolio.com)
+
+The JS package, [holonk/retail-calendar](https://github.com/holonk/retail-calendar), was written by Cihan Cimen.
+
 ## Development
 
 ```shell
