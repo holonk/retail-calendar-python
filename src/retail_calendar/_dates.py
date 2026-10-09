@@ -1,5 +1,7 @@
 """Small date helpers. All arithmetic is on naive ``datetime.date`` values, so there is no timezone or DST effect."""
 
+from __future__ import annotations
+
 import calendar
 import datetime as dt
 

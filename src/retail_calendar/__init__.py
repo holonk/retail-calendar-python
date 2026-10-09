@@ -3,6 +3,8 @@
 Python port of the ``retail-calendar`` npm package.
 """
 
+from __future__ import annotations
+
 from retail_calendar.calendar import MAX_YEAR, MIN_YEAR, RetailCalendar, get_retail_calendar
 from retail_calendar.enums import LastDayOfWeek, LastMonthOfYear, WeekCalculation, WeekGrouping
 from retail_calendar.lookup import (

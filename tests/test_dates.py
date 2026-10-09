@@ -1,5 +1,7 @@
 """Date helpers, including the cases of the JS package's ``__tests__/date_utils.test.ts``."""
 
+from __future__ import annotations
+
 import datetime as dt
 
 import pytest

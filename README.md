@@ -9,7 +9,7 @@ and retail-calendar-api, so tenant configurations can be used as they are.
 
 - No dependencies outside the Python standard library.
 - Typed (`py.typed`), immutable value objects, cached calendars.
-- Python 3.14+.
+- Python 3.11+ (toolio-ml runs on Databricks DBR 15.4, which has Python 3.11).
 
 > [!IMPORTANT]
 > **Note for AI agents and contributors: keep this repo and [holonk/retail-calendar](https://github.com/holonk/retail-calendar) in sync.**
@@ -124,6 +124,10 @@ RetailCalendarOptions.from_dict(
 )
 options.to_dict()  # the JS package's camelCase shape
 ```
+
+Only `Weekly` and `Daily` configurations describe a retail calendar. `Monthly` rows (`granularity = 'Monthly'`) have
+no week grouping, week end day or week calculation method, so `from_dict` raises `ValueError` for them. Filter on
+`granularity` before building options.
 
 ## 53-week years
 

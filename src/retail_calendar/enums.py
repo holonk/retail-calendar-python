@@ -6,6 +6,8 @@ in the ``calendarconfiguration`` table) are interchangeable between the two impl
 ``"Saturday"``, ...).
 """
 
+from __future__ import annotations
+
 from enum import IntEnum
 from typing import Self
 

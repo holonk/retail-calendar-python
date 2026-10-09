@@ -1,5 +1,7 @@
 """Value objects describing the weeks, months and days of a retail calendar."""
 
+from __future__ import annotations
+
 import datetime as dt
 from dataclasses import dataclass
 

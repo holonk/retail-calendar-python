@@ -1,5 +1,7 @@
 """Invariants that hold for every configuration and year."""
 
+from __future__ import annotations
+
 import datetime as dt
 
 from hypothesis import given

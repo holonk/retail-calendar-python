@@ -1,5 +1,7 @@
 """The retail calendar of a single retail year."""
 
+from __future__ import annotations
+
 import datetime as dt
 import functools
 from dataclasses import dataclass, field

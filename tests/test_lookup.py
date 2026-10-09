@@ -1,5 +1,7 @@
 """Port of the JS package's ``__tests__/gregorian_helpers.test.ts``, plus the retail-calendar-api style helpers."""
 
+from __future__ import annotations
+
 import datetime as dt
 
 import pytest

@@ -7,6 +7,8 @@ These mirror the retail-calendar-api endpoints:
 * ``get-leap-years``                -> :func:`leap_years`
 """
 
+from __future__ import annotations
+
 import datetime as dt
 from collections.abc import Iterable
 from typing import NamedTuple

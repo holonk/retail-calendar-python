@@ -1,5 +1,7 @@
 """Port of the JS package's ``__tests__/custom_leap_year.test.ts``."""
 
+from __future__ import annotations
+
 import datetime as dt
 
 import pytest

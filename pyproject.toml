@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "A configurable retail (4-5-4, 4-4-5, 5-4-4) calendar. Python port of the retail-calendar npm package."
 readme = "README.md"
 license = "MIT"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 authors = [{ name = "Toolio" }]
 maintainers = [
     { name = "Alican Buyukcakir", email = "alican@toolio.com" },
@@ -14,6 +14,9 @@ keywords = ["retail", "calendar", "merchandise", "4-5-4", "nrf", "fiscal"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
     "Typing :: Typed",
 ]
@@ -43,7 +46,7 @@ exclude = ["scripts/golden/node_modules"]
 
 [tool.ruff]
 line-length = 120
-target-version = "py314"
+target-version = "py311"
 src = ["src", "tests"]
 
 [tool.ruff.lint]
@@ -62,12 +65,16 @@ ignore = [
 "tests/**" = ["D", "ANN", "PLR"]
 "scripts/**" = ["D", "T201"]
 
+[tool.ruff.lint.isort]
+# Python 3.11 evaluates annotations eagerly; keep them lazy everywhere, as in 3.14.
+required-imports = ["from __future__ import annotations"]
+
 [tool.ruff.lint.flake8-tidy-imports]
 ban-relative-imports = "parents"
 
 [tool.mypy]
 strict = true
-python_version = "3.14"
+python_version = "3.11"
 files = ["src", "tests"]
 warn_unreachable = true
 

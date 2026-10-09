@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
         with:
-          python-version: "3.14"
+          python-version: "3.11"
       - run: uv sync --locked
       - run: uv run ruff format --check .
       - run: uv run ruff check .
@@ -23,11 +23,16 @@ jobs:
 
   test:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # 3.11 is the floor because toolio-ml runs on Databricks DBR 15.4.
+        python-version: ["3.11", "3.12", "3.13", "3.14"]
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
         with:
-          python-version: "3.14"
+          python-version: ${{ matrix.python-version }}
       - run: uv sync --locked
       - run: uv run pytest -n auto --cov --cov-report=term-missing
 
@@ -51,7 +56,7 @@ jobs:
       - run: uv build
       - name: Check the wheel installs and imports with no dependencies
         run: |
-          uv venv --python 3.14 /tmp/wheel-check
+          uv venv --python 3.11 /tmp/wheel-check
           uv pip install --python /tmp/wheel-check dist/*.whl
           /tmp/wheel-check/bin/python -c "import retail_calendar, sys; assert not set(sys.modules) & {'pandas', 'numpy'}"
       - uses: actions/upload-artifact@v4

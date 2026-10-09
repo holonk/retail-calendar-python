@@ -5,6 +5,8 @@ the retail year, and returns the last day of that retail year. They mirror the J
 implementations one to one.
 """
 
+from __future__ import annotations
+
 import datetime as dt
 from collections.abc import Callable
 from typing import assert_never

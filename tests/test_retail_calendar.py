@@ -1,5 +1,7 @@
 """Port of the JS package's ``__tests__/retail_calendar.test.ts``."""
 
+from __future__ import annotations
+
 import dataclasses
 import datetime as dt
 
