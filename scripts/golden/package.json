@@ -1,0 +1,12 @@
+{
+  "name": "retail-calendar-golden",
+  "private": true,
+  "description": "Generates reference data from the JS retail-calendar package for the Python parity tests.",
+  "type": "module",
+  "scripts": {
+    "generate": "TZ=UTC node generate.mjs ../../tests/data/golden"
+  },
+  "dependencies": {
+    "retail-calendar": "4.1.2"
+  }
+}

@@ -1,0 +1,4466 @@
+[
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 0,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 1,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 2,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 3,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 4,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 0,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 1,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 0,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 10,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 6,
+  "lastMonthOfYear": 0,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 7,
+  "lastMonthOfYear": 9,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 5,
+  "lastMonthOfYear": 11,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ },
+ {
+  "weekGrouping": 2,
+  "lastDayOfWeek": 1,
+  "lastMonthOfYear": 7,
+  "weekCalculation": 5,
+  "leapYear": 2005,
+  "leapYearEndDate": "2006-03-11",
+  "leapYearFrequency": 6,
+  "addLeapWeekToMonth": 11,
+  "beginningMonthIndex": 0
+ }
+]
