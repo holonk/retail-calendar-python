@@ -43,4 +43,6 @@ jobs:
           retail-calendar @ $url#sha256=$sha256
           \`\`\`
           NOTES
-          gh release create "$GITHUB_REF_NAME" dist/* --title "$GITHUB_REF_NAME" --notes-file notes.md --verify-tag
+          # Releases are immutable once published, so the assets go on a draft first.
+          gh release create "$GITHUB_REF_NAME" dist/* --draft --title "$GITHUB_REF_NAME" --notes-file notes.md --verify-tag
+          gh release edit "$GITHUB_REF_NAME" --draft=false
