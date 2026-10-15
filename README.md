@@ -27,6 +27,8 @@ and retail-calendar-api, so tenant configurations can be used as they are.
 >    (see [Parity with the JS package](#parity-with-the-js-package)) and commit it with the Python change.
 >    `tests/test_golden.py` must pass against the regenerated data.
 > 5. Update both READMEs, including the [JS to Python table](#coming-from-the-js-package) below.
+> 6. Release the Python package (see [Releasing](#releasing)) and update the `retail-calendar` line in toolio-ml's
+>    `requirements.txt` with the new URL and hash.
 >
 > Python-only conveniences that don't change calendar results don't need a JS counterpart. If you're unsure whether
 > a change affects results, it does: mirror it.
@@ -36,9 +38,14 @@ and retail-calendar-api, so tenant configurations can be used as they are.
 
 ## Installation
 
-```shell
-uv add "retail-calendar @ git+ssh://git@github.com/holonk/retail-calendar-python.git@v1.0.0"
+Each release on GitHub has the wheel attached. Its release notes give the line to put in `requirements.txt`, with the
+wheel's SHA-256 so pip rejects any other file:
+
+```text
+retail-calendar @ https://github.com/holonk/retail-calendar-python/releases/download/v1.0.0/retail_calendar-1.0.0-py3-none-any.whl#sha256=...
 ```
+
+This needs no git, no build step and no credentials, so it works in Docker images and on Databricks clusters alike.
 
 ## Usage
 
@@ -230,3 +237,16 @@ npm run generate  # runs in TZ=UTC
 Some fixtures in `tests/data` are converted from the JS package's tests. The JS fixture for the "last day nearest
 EOM, 4-4-5, arbitrary leap year" case had stray spaces in some dates (`"2024-01 -08"`), which its parser tolerated;
 they are fixed here.
+
+### Releasing
+
+1. Bump `version` in `pyproject.toml` (`uv version --bump patch`, `minor` or `major`) and merge it to `master`.
+2. Tag the merge commit and push the tag:
+
+   ```shell
+   git tag v1.0.1 && git push origin v1.0.1
+   ```
+
+The release workflow runs CI, checks that the tag matches the version, builds the wheel and sdist and publishes them as
+a GitHub Release. Its notes give the `requirements.txt` line with the wheel's SHA-256. A published version is never
+rebuilt or replaced: toolio-ml pins its hash.
