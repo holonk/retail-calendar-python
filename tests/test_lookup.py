@@ -1,4 +1,4 @@
-"""Port of the JS package's ``__tests__/gregorian_helpers.test.ts``, plus the retail-calendar-api style helpers."""
+"""Port of the JS package's ``__tests__/gregorian_helpers.test.ts``, plus the date and segment conversion helpers."""
 
 from __future__ import annotations
 

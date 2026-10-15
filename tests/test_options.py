@@ -121,7 +121,7 @@ class TestFromDict:
         data = {"weekGrouping": 2, "lastDayOfWeek": 6, "lastMonthOfYear": 0, "weekCalculation": 2}
         assert RetailCalendarOptions.from_dict(data) == NRF_CALENDAR_OPTIONS
 
-    def test_calendarconfiguration_row_shape(self) -> None:
+    def test_stored_configuration_shape(self) -> None:
         row = {
             "id": 7,
             "granularity": "Weekly",

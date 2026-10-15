@@ -4,19 +4,18 @@ A configurable merchandising and retail calendar for Python: NRF 4-5-4, 4-4-5, 5
 calendars, with their Gregorian boundaries.
 
 This is a port of the [`retail-calendar`](https://github.com/holonk/retail-calendar) npm package (v4.1.2). It
-produces the same calendars, and its integer and label values match the JS package, the `calendarconfiguration` table
-and retail-calendar-api, so tenant configurations can be used as they are.
+produces the same calendars, and its integer and label values match the JS package, so a calendar configuration can be
+shared between the two as it is.
 
 - No dependencies outside the Python standard library.
 - Typed (`py.typed`), immutable value objects, cached calendars.
-- Python 3.11+ (toolio-ml runs on Databricks DBR 15.4, which has Python 3.11).
+- Python 3.11+.
 
 > [!IMPORTANT]
 > **Note for AI agents and contributors: keep this repo and [holonk/retail-calendar](https://github.com/holonk/retail-calendar) in sync.**
 >
-> The two packages are one calendar in two languages. retail-calendar-api, holonk and the frontend use the JS
-> package; toolio-ml uses this one. If they ever disagree, services disagree about which week a date belongs to. When
-> you add a feature, fix a bug or change behavior in either repo:
+> The two packages are one calendar in two languages. Systems that use both must agree on which week a date belongs
+> to, so the packages must never disagree. When you add a feature, fix a bug or change behavior in either repo:
 >
 > 1. Make the same change in the other repo, in the same piece of work. Never fix a bug on one side only, even an
 >    obvious one such as the December-only `LAST_DAY_BEFORE_EOM_EXCEPT_LEAP_YEAR` look-ahead.
@@ -27,14 +26,13 @@ and retail-calendar-api, so tenant configurations can be used as they are.
 >    (see [Parity with the JS package](#parity-with-the-js-package)) and commit it with the Python change.
 >    `tests/test_golden.py` must pass against the regenerated data.
 > 5. Update both READMEs, including the [JS to Python table](#coming-from-the-js-package) below.
-> 6. Release the Python package (see [Releasing](#releasing)) and update the `retail-calendar` line in toolio-ml's
->    `requirements.txt` with the new URL and hash.
+> 6. Release both packages (see [Releasing](#releasing)).
 >
 > Python-only conveniences that don't change calendar results don't need a JS counterpart. If you're unsure whether
 > a change affects results, it does: mirror it.
 >
 > Like the JS package, this library stays dependency-free. Integration helpers that need other libraries (pandas
-> DataFrame conversions, database access, ...) belong in the consuming repo, such as toolio-ml, not here.
+> DataFrame conversions, database access, ...) belong in the projects that use it, not here.
 
 ## Installation
 
@@ -45,7 +43,11 @@ wheel's SHA-256 so pip rejects any other file:
 retail-calendar @ https://github.com/holonk/retail-calendar-python/releases/download/v1.0.0/retail_calendar-1.0.0-py3-none-any.whl#sha256=...
 ```
 
-This needs no git, no build step and no credentials, so it works in Docker images and on Databricks clusters alike.
+This needs no git and no build step. To install a release directly:
+
+```shell
+pip install https://github.com/holonk/retail-calendar-python/releases/download/v1.0.0/retail_calendar-1.0.0-py3-none-any.whl
+```
 
 ## Usage
 
@@ -97,7 +99,7 @@ day.date, day.day_of_year, day.day_of_week, day.day_of_month, day.week_of_year, 
 
 ### Dates to retail weeks and back
 
-These mirror retail-calendar-api's endpoints:
+Conversions between dates and `(retail year, 0-based week)` segments:
 
 ```python
 from retail_calendar import DateSegment, date_to_segment, leap_years, segment_to_date, week_of_gregorian_date
@@ -114,10 +116,11 @@ dt.date(2017, 3, 1) in calendar  # True
 
 `datetime` values (including `pandas.Timestamp`) are accepted wherever a date is; their time is ignored.
 
-### Configuration from the database or the API
+### Configuration from a dictionary
 
-`RetailCalendarOptions.from_dict` accepts the JS package's keys as well as the `calendarconfiguration` /
-retail-calendar-api keys, with integer or label values. Unrelated keys are ignored.
+`RetailCalendarOptions.from_dict` accepts the JS package's keys as well as the alternative names used in stored
+configurations and HTTP request bodies (`lastDayOfTheWeek`, `lastMonthOfTheYear`, `lastWeekCalculationMethod`), with
+integer or label values. Unrelated keys are ignored.
 
 ```python
 RetailCalendarOptions.from_dict(
@@ -132,9 +135,8 @@ RetailCalendarOptions.from_dict(
 options.to_dict()  # the JS package's camelCase shape
 ```
 
-Only `Weekly` and `Daily` configurations describe a retail calendar. `Monthly` rows (`granularity = 'Monthly'`) have
-no week grouping, week end day or week calculation method, so `from_dict` raises `ValueError` for them. Filter on
-`granularity` before building options.
+A configuration without a week grouping, week end day or week calculation method (a month-only calendar, for
+example) does not describe a retail calendar, so `from_dict` raises `ValueError` for it.
 
 ## 53-week years
 
@@ -193,8 +195,7 @@ Differences in behavior:
 
 - **No timezone effects.** The JS package does its date math in the host's local time, so DST shifts can move a year
   boundary by a week, depending on where it runs: 9 to 54 of 21,420 tested calendars differ between UTC and other
-  zones. This package works on plain dates and always matches the JS package running in UTC, as retail-calendar-api
-  does.
+  zones. This package works on plain dates and always matches the JS package running in UTC.
 - **Validation.** Invalid options (unknown labels, `add_leap_week_to_month` outside 0 to 11, missing custom leap year
   options, unsupported years) raise `ValueError` when created instead of failing later or producing wrong calendars.
 - **Immutability.** Calendars, weeks, months, days and options are frozen, so the cache can be shared safely.
@@ -249,4 +250,4 @@ they are fixed here.
 
 The release workflow runs CI, checks that the tag matches the version, builds the wheel and sdist and publishes them as
 a GitHub Release. Its notes give the `requirements.txt` line with the wheel's SHA-256. A published version is never
-rebuilt or replaced: toolio-ml pins its hash.
+rebuilt or replaced, since projects pin its hash.
