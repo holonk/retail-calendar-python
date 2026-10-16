@@ -3,8 +3,8 @@
 //   cd scripts/golden && npm ci && npm run generate
 //
 // The JS package does its date math in the host's local time, so its output depends on the timezone (DST shifts
-// can move a year boundary by a week). The reference is the package running in UTC, which is what
-// retail-calendar-api runs in. This script refuses to run in any other timezone.
+// can move a year boundary by a week). The reference is the package running in UTC, which is what the Python port
+// matches. This script refuses to run in any other timezone.
 
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -130,7 +130,7 @@ function digests(configs) {
   writeGzip('digests.csv.gz', rows.join('\n') + '\n')
 }
 
-// 3. weekOfGregorianDate (what retail-calendar-api's get-date-segments-from-dates uses) on random dates.
+// 3. weekOfGregorianDate on random dates.
 function lookups(configs) {
   let seed = 20261008 // deterministic linear congruential generator, so the output is reproducible
   const random = () => ((seed = (seed * 1103515245 + 12345) % 2147483648) / 2147483648)

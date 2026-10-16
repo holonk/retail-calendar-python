@@ -9,8 +9,8 @@ from typing import Any, Self
 
 from retail_calendar.enums import LastDayOfWeek, LastMonthOfYear, WeekCalculation, WeekGrouping
 
-# Each option accepts the key used by the JS package and the key used by the calendarconfiguration table and
-# retail-calendar-api request bodies.
+# Each option accepts the key used by the JS package and the alternative key used in stored configurations and
+# HTTP request bodies.
 _KEY_ALIASES: dict[str, tuple[str, ...]] = {
     "week_grouping": ("weekGrouping", "week_grouping"),
     "last_day_of_week": ("lastDayOfWeek", "lastDayOfTheWeek", "last_day_of_week"),
@@ -85,9 +85,9 @@ class RetailCalendarOptions:
     def from_dict(cls, data: Mapping[str, Any]) -> Self:
         """Build options from a camelCase mapping.
 
-        Accepts the keys of the JS package (``weekGrouping``, ``lastDayOfWeek``, ...) and of the
-        ``calendarconfiguration`` table / retail-calendar-api (``lastDayOfTheWeek``, ``lastWeekCalculationMethod``,
-        ...). Values may be enum members, integers or labels. ``None`` values fall back to the defaults, an
+        Accepts the keys of the JS package (``weekGrouping``, ``lastDayOfWeek``, ...) and the alternative keys used in
+        stored configurations and HTTP request bodies (``lastDayOfTheWeek``, ``lastWeekCalculationMethod``, ...).
+        Values may be enum members, integers or labels. ``None`` values fall back to the defaults, an
         ``addLeapWeekToMonth`` of ``-1`` means "no month", and unrelated keys are ignored.
         """
         kwargs: dict[str, Any] = {}

@@ -92,7 +92,7 @@ class RetailDay:
 
 @dataclass(frozen=True, slots=True)
 class DateSegment:
-    """A retail week identified the way retail-calendar-api and toolio-ml do: retail year plus 0-based week."""
+    """A retail week identified by its retail year and 0-based week of the year."""
 
     year: int
     week: int

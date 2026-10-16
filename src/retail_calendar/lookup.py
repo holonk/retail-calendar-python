@@ -1,10 +1,8 @@
 """Conversions between Gregorian dates and retail weeks.
 
-These mirror the retail-calendar-api endpoints:
-
-* ``get-date-segments-from-dates``  -> :func:`date_to_segment`
-* ``get-dates-from-date-segments``  -> :func:`segment_to_date`
-* ``get-leap-years``                -> :func:`leap_years`
+* :func:`date_to_segment`: the retail year and 0-based week containing a date
+* :func:`segment_to_date`: the first day of a retail week
+* :func:`leap_years`: the years with 53 weeks
 """
 
 from __future__ import annotations

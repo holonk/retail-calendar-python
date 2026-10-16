@@ -1,9 +1,8 @@
 """Calendar configuration enums.
 
-Integer values are identical to the JS ``retail-calendar`` package, so configurations stored as integers (for example
-in the ``calendarconfiguration`` table) are interchangeable between the two implementations. Each member also has a
-:attr:`~_LabeledIntEnum.label`: the string used by the database and by retail-calendar-api (``"4-4-5"``,
-``"Saturday"``, ...).
+Integer values are identical to the JS ``retail-calendar`` package, so configurations stored as integers are
+interchangeable between the two implementations. Each member also has a :attr:`~_LabeledIntEnum.label`: the string
+form used in stored configurations (``"4-4-5"``, ``"Saturday"``, ...).
 """
 
 from __future__ import annotations
@@ -17,7 +16,7 @@ class _LabeledIntEnum(IntEnum):
 
     @property
     def label(self) -> str:
-        """The label used for this member by the database and retail-calendar-api."""
+        """The string form of this member in stored configurations."""
         return self.name.title()
 
     @classmethod
@@ -125,7 +124,7 @@ class WeekCalculation(_LabeledIntEnum):
 
     @property
     def label(self) -> str:
-        """The ``lastWeekCalculationMethod`` value of the database and retail-calendar-api."""
+        """The string form of this member, as in a ``lastWeekCalculationMethod`` key."""
         return _WEEK_CALCULATION_LABELS[self]
 
 
